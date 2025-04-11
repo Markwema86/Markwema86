@@ -1,34 +1,35 @@
 <h2>Hi 👋! Am Mark Wema</h2>
 
-* 👀 I’m interested in Data Science|Machine Learning|AI & Finance.
-  
-📊 Financial Analysis – Interpreting statements, KPIs & ratios
+<h3>I’m interested in Data Science|Machine Learning|AI & Finance.</h3>
 
-📈 Data Visualization – Presenting insights via Power BI, Tableau, Excel
+<h3>Core Skills</h3>
+- 📊 Financial Analysis – Interpreting statements, KPIs & ratios
 
-📉 Statistical Analysis – Uncovering trends with statistical methods
+- 📈 Data Visualization – Presenting insights via Power BI, Tableau, Excel
 
-🧠 SQL – Efficient data extraction & manipulation
+- 📉 Statistical Analysis – Uncovering trends with statistical methods
 
-🧾 Excel – Advanced modeling, forecasting & analysis
+- 🧠 SQL – Efficient data extraction & manipulation
 
-🐍 Python/R – Automating tasks & handling large datasets
+- 🧾 Excel – Advanced modeling, forecasting & analysis
 
-🔍 Attention to Detail – Ensuring accuracy & consistency
+- 🐍 Python/R – Automating tasks & handling large datasets
 
-💼 Business Acumen – Aligning insights with strategic goals
+- 🔍 Attention to Detail – Ensuring accuracy & consistency
 
-🗣️ Communication – Delivering clear, actionable insights
+- 💼 Business Acumen – Aligning insights with strategic goals
 
-🧩 Problem-Solving – Identifying opportunities & solving anomalies
+- 🗣️ Communication – Delivering clear, actionable insights
+
+- 🧩 Problem-Solving – Identifying opportunities & solving anomalies.
+
+<h3>Other Skills</h3>
 - 👨‍💻 Full Stack Developer.
 - 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
 - 🚀 Backend: Experience with Python.
 - 📝 Version Control: Git/GitHub proficiency.
-- 🔍 Problem-solving: Strong analytical skills.
-- 💬 Communication: Clear and concise.
 
-  
+<h3> 👀 About Me</h3>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
