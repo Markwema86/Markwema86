@@ -1,21 +1,20 @@
-- 👋 Hi, I’m Mark Wema @Markwema86
-- 👀 I’m interested in Data Science|Machine Learning|AI - For Finance
+<h2>Hi 👋! Am Mark Wema</h2>
+
+* 👀 I’m interested in Data Science|Machine Learning|AI & Finance.
+  
+- 👨‍💻 Full Stack Developer.
+- 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
+- 🚀 Backend: Experience with Python.
+- 📝 Version Control: Git/GitHub proficiency.
+- 🔍 Problem-solving: Strong analytical skills.
+- 💬 Communication: Clear and concise.
+
+  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
-<h2>Hi 👋! Am N. Barrack Okoth</h2>
-
-- 👨‍💻 Full Stack Developer.
-- 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Material UI, Next.js and React.js.
-- 🚀 Backend: Experience with Python-Django and Node.js for building RESTful APIs.
-- 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
-- 📱 UI/UX: Familiar with Figma and Adobe XD for design.
-- 📝 Version Control: Git/GitHub proficiency.
-- ☁️ Deployment: Experienced in deploying on Heroku, Vercel and Netlify.
-- 🔍 Problem-solving: Strong debugging skills.
-- 💬 Communication: Effective team collaboration.
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=Rez-create&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
