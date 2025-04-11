@@ -25,6 +25,7 @@
 - 🧩 Problem-Solving – Identifying opportunities & solving anomalies.
 
 <h3>Other Skills</h3>
+
 - 👨‍💻 Full Stack Developer.
 
 - 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
@@ -34,6 +35,7 @@
 - 📝 Version Control: Git/GitHub proficiency.
 
 <h3> 👀 About Me</h3>
+
 - 🌱 I’m currently learning ...
 
 - 💞️ I’m looking to collaborate on ...
@@ -45,7 +47,7 @@
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=Markwema86&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rez-create&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markwema86&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ###
