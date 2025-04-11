@@ -3,6 +3,7 @@
 <h3>I’m interested in Data Science|Machine Learning|AI & Finance.</h3>
 
 <h3>Core Skills</h3>
+
 - 📊 Financial Analysis – Interpreting statements, KPIs & ratios
 
 - 📈 Data Visualization – Presenting insights via Power BI, Tableau, Excel
