@@ -2,6 +2,25 @@
 
 * 👀 I’m interested in Data Science|Machine Learning|AI & Finance.
   
+📊 Financial Analysis – Interpreting statements, KPIs & ratios
+
+📈 Data Visualization – Presenting insights via Power BI, Tableau, Excel
+
+📉 Statistical Analysis – Uncovering trends with statistical methods
+
+🧠 SQL – Efficient data extraction & manipulation
+
+🧾 Excel – Advanced modeling, forecasting & analysis
+
+🐍 Python/R – Automating tasks & handling large datasets
+
+🔍 Attention to Detail – Ensuring accuracy & consistency
+
+💼 Business Acumen – Aligning insights with strategic goals
+
+🗣️ Communication – Delivering clear, actionable insights
+
+🧩 Problem-Solving – Identifying opportunities & solving anomalies
 - 👨‍💻 Full Stack Developer.
 - 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
 - 🚀 Backend: Experience with Python.
