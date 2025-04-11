@@ -26,19 +26,25 @@
 
 <h3>Other Skills</h3>
 - 👨‍💻 Full Stack Developer.
+
 - 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
+  
 - 🚀 Backend: Experience with Python.
+  
 - 📝 Version Control: Git/GitHub proficiency.
 
 <h3> 👀 About Me</h3>
 - 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me ...
+  
 - ⚡ Fun fact: ...
 
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=Rez-create&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Markwema86&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rez-create&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
