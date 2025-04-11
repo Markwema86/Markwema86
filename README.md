@@ -83,7 +83,7 @@
 
 ### Lets connect:
 <div align="left">
-  <a href="mailto:okothbarack90@gmail.com" target="_blank">
+  <a href="mailto:mark5morningstar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/n-barrack-okoth-06b08a2b0/" target="_blank">
@@ -104,10 +104,10 @@
 ###
 <div align="center">
     <a href="https://github.com/Rez-create">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez-create&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markwema86&theme=transparent" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Rez-create&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Markwema86&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
     </a>
   <a>
     <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIwdDhjN3dma293YXZlNHBjbWdsdDF4aGx0NzJxcTl5ZXB3djN4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
