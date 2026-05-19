@@ -1,37 +1,37 @@
 <h2>Hi 👋! Am Mark Wema</h2>
 
-<h3>I’m interested in Data Science|Machine Learning|AI & Finance.</h3>
+<h3>I’m interested in Investment Finance and Tech (Data Science|Machine Learning|AI).</h3>
 
 <h3>Core Skills</h3>
 
-- 📊 Financial Analysis – Interpreting statements, KPIs & ratios
+- 📊 Financial Analysis - Interpreting statements, KPIs & ratios
 
-- 📈 Data Visualization – Presenting insights via Power BI, Tableau, Excel
+- 📈 Data Visualization - Presenting insights via Power BI, Tableau, Excel
 
-- 📉 Statistical Analysis – Uncovering trends with statistical methods
+- 📉 Statistical Analysis - Uncovering trends with statistical methods
 
-- 🧠 SQL – Efficient data extraction & manipulation
+- 🧠 SQL - Efficient data extraction & manipulation
 
-- 🧾 Excel – Advanced modeling, forecasting & analysis
+- 🧾 Excel - Advanced modeling, forecasting & analysis
 
-- 🐍 Python/R – Automating tasks & handling large datasets
+- 🐍 Python/R - Automating tasks & handling large datasets
 
-- 🔍 Attention to Detail – Ensuring accuracy & consistency
+- 🔍 Attention to Detail - Ensuring accuracy & consistency
 
-- 💼 Business Acumen – Aligning insights with strategic goals
+- 💼 Business Acumen - Aligning insights with strategic goals
 
-- 🗣️ Communication – Delivering clear, actionable insights
+- 🗣️ Communication - Delivering clear, actionable insights
 
-- 🧩 Problem-Solving – Identifying opportunities & solving anomalies.
+- 🧩 Problem-Solving - Identifying opportunities & solving anomalies.
 
 <h3>Other Skills</h3>
-
-- 👨‍💻 Full Stack Developer.
-
-- 🎨 Frontend: Strong in HTML5, CSS3,JavaScript, Tailwind CSS.
-  
-- 🚀 Backend: Experience with Python.
-  
+- 📈 Investment Finance Enthusiast.
+- 💹 Financial Analysis: Skilled in market research, valuation, and investment analysis.
+- 📊 Tools & Analytics: Experience with Excel, Google Sheets, financial modeling, and data-driven decision making.
+- 🏦 Finance Knowledge: Familiar with Venture Capital, Private Equity, Mergers & Acquisitions, and portfolio management.
+- 🤖 AI & Finance: Leveraging AI tools for financial research, productivity, and strategic analysis.
+- 📝 Professional Skills: Strong in leadership, communication, networking, and business strategy.
+- 🔗 Research & Workflow: Proficient with Git/GitHub, Notion, and collaborative project management.
 - 📝 Version Control: Git/GitHub proficiency.
 
 <h3> 👀 About Me</h3>
