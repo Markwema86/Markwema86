@@ -25,6 +25,7 @@
 - 🧩 Problem-Solving - Identifying opportunities & solving anomalies.
 
 <h3>Other Skills</h3>
+
 - 📈 Investment Finance Enthusiast.
 
 - 💹 Financial Analysis: Skilled in market research, valuation, and investment analysis.
