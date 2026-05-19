@@ -26,12 +26,19 @@
 
 <h3>Other Skills</h3>
 - 📈 Investment Finance Enthusiast.
+
 - 💹 Financial Analysis: Skilled in market research, valuation, and investment analysis.
+  
 - 📊 Tools & Analytics: Experience with Excel, Google Sheets, financial modeling, and data-driven decision making.
+  
 - 🏦 Finance Knowledge: Familiar with Venture Capital, Private Equity, Mergers & Acquisitions, and portfolio management.
+  
 - 🤖 AI & Finance: Leveraging AI tools for financial research, productivity, and strategic analysis.
+  
 - 📝 Professional Skills: Strong in leadership, communication, networking, and business strategy.
+  
 - 🔗 Research & Workflow: Proficient with Git/GitHub, Notion, and collaborative project management.
+  
 - 📝 Version Control: Git/GitHub proficiency.
 
 <h3> 👀 About Me</h3>
